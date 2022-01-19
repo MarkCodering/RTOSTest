@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "RTOSTest",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"gpio_stm32.h": "c",
+			"stm32_clock_control.h": "c",
+			"zephyr.h": "c",
+			"kernel.h": "c",
+			"kernel_includes.h": "c",
+			"syscall.h": "c",
+			"errno.h": "c",
+			"types.h": "c",
+			"toolchain.h": "c",
+			"sections.h": "c",
+			"main.C": "cpp"
+		}
+	}
+}
